@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 27,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Covid: Omicron study suggests major wave in January",
+      "description": "More stringent restrictions may be needed to prevent coronavirus from overwhelming hospitals, scientists say.",
+      "url": "http://www.bbc.co.uk/news/uk-59621029",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14F0F/production/_122057758_gettyimages-1237143534.jpg",
+      "publishedAt": "2021-12-11T12:22:22.6482809Z",
+      "content": "By James GallagherHealth and science correspondent Image source, Getty Images The UK is facing a substantial wave of Omicron infections in January without further restrictions, according to scienti… [+3260 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-au",
+        "name": "Google News (Australia)"
+      },
+      "author": "Sonia Lal",
+      "title": "Omicron cases in South Australia confirmed as locals fume over quarantine rule changes so close to Christmas",
+      "description": "SA Health issued a statement on Saturday night confirming the two suspected cases of the new variant, which were first identified on Friday.",
+      "url": "https://www.9news.com.au/national/sa-coronavirus-update-quarantine-rules-omicron-close-contacts-criticised-by-many-but-defended-by-premier/aa2d5206-821d-45b4-a23d-72250ebea3a5",
+      "urlToImage": "https://imageresizer.static9.net.au/5ZmbUx7S6VGikAnM_t0WRm8fK2Q=/0x570:5472x3648/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F1e1fc54d-3e77-41a6-bdf5-2e3d28d31506",
+      "publishedAt": "2021-12-11T12:13:49+00:00",
+      "content": "<p>SA Health issued a statement on Saturday night confirming the two suspected cases of the new variant, which were first identified on Friday.</p>"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "Taiwan records first omicron case in traveler from Africa",
+      "description": "TAIPEI, Taiwan (AP) — Taiwan has recorded its first case of the omicron variant in a passenger who recently traveled to the southern African country of Eswatini, health officials said Saturday.The passenger, a Taiwanese woman in her 30s who returned on Dec.",
+      "url": "https://apnews.com/68ee3b70b79ab3e8d4b09c23b0e29d40",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/99fe4c194e1d421a96c8352386777422/3000.jpeg",
+      "publishedAt": "2021-12-11T10:44:07Z",
+      "content": "TAIPEI, Taiwan (AP) — Taiwan has recorded its first case of the omicron variant in a passenger who recently traveled to the southern African country of Eswatini, health officials said Saturday.The pa… [+1021 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-au",
+        "name": "Google News (Australia)"
+      },
+      "author": "Sonia Lal",
+      "title": "Australia's COVID-19 booster shots brought forward to five-month mark",
+      "description": "Australia's vaccine booster program has been brought forward by a month due to the Omicron variant as ATAGI approved Moderna booster shots",
+      "url": "https://www.9news.com.au/national/australia-covid-19-vaccine-booster-shots-brought-forward-five-months-omicron-moderna-approved/63f5aec3-7859-4602-9f05-543d43e938c1",
+      "urlToImage": "https://imageresizer.static9.net.au/Yu1qllrYPqw8u7oNr0fPCiXT21g=/0x285:5472x3363/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F03182ab0-f110-4ab3-888f-08b1de0c7508",
+      "publishedAt": "2021-12-11T10:30:31+00:00",
+      "content": "<p>Australia&#x27;s vaccine booster program has been brought forward by a month due to the Omicron variant as ATAGI approved Moderna booster shots</p>"
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Jennifer Larbie",
+      "title": "Omicron is what you get in a world of ‘have jabs and have nots’",
+      "description": "Patents should be waived, lives should be put before profits, and universal access to vaccines should be at the top of the agenda at the upcoming G7 meeting, writes Jennifer Larbie",
+      "url": "http://www.independent.co.uk/independentpremium/voices/vaccines-equitable-global-rollout-g7-b1972134.html",
+      "urlToImage": "https://static.independent.co.uk/2021/12/08/15/iStock-1285653618.jpg?width=1200&auto=webp&quality=75",
+      "publishedAt": "2021-12-11T10:21:15Z",
+      "content": "With so many of us having one eye on Christmas, there is a real fear that the Omicron variant could restrict our time with friends and family. But this new variant is also the latest reminder that t… [+317 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Henry Belot",
+      "title": "Booster access brought forward to slow spread of Omicron COVID-19 variant",
+      "description": "Millions of Australians are now able to access a COVID-19 booster shot one month earlier than expected, after a change to the national rollout in response to the Omicron variant.",
+      "url": "http://www.abc.net.au/news/2021-12-11/booster-access-brought-forward-to-slow-spread-of-omicron-variant/100693484",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/04f0a5a4f816c350327fc9168bd61cb8?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=23&width=862&height=485",
+      "publishedAt": "2021-12-11T10:00:57Z",
+      "content": "Millions of Australians are now able to access a COVID-19 booster shot one month earlier than expected, after a change to the national rollout in response to the Omicron variant. Key points: <ul><l… [+2527 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "ANDREW MELDRUM Associated Press",
+      "title": "South African doctors see signs omicron is milder than delta",
+      "description": "",
+      "url": "https://abcnews.go.com/Health/wireStory/south-african-doctors-signs-omicron-milder-delta-81689492",
+      "urlToImage": "https://s.abcnews.com/images/Health/WireAP_27bf379d46b54da9bf76a626859b93b2_16x9_992.jpg",
+      "publishedAt": "2021-12-11T09:33:01Z",
+      "content": "JOHANNESBURG -- As the omicron variant sweeps through South Africa, Dr. Unben Pillay is seeing dozens of sick patients a day. Yet he hasnt had to send anyone to the hospital. Thats one of the reason… [+4145 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "CBC News",
+      "title": "Why getting a booster shot is growing more crucial as omicron spreads | CBC News",
+      "description": "Omicron is ramping up the push for widespread boosters in Canada, shifting the conversation away from providing added protection to the most vulnerable and toward giving everyone eligible an additional shot to stave off potential spread of the highly transmis…",
+      "url": "http://www.cbc.ca/news/health/omicron-variant-boosters-canada-covid-19-vaccine-effectiveness-1.6281860",
+      "urlToImage": "https://i.cbc.ca/1.6281932.1639175250!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/covid-que-20211204.jpg",
+      "publishedAt": "2021-12-11T09:07:19.4097696Z",
+      "content": "This is an excerpt from Second Opinion, a weekly roundup of health and medical science news emailed to subscribers every Saturday morning. If you haven't subscribed yet, you can do that by clicking h… [+8703 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "ANDREW MELDRUM",
+      "title": "South African doctors see signs omicron is milder than delta",
+      "description": "JOHANNESBURG (AP) — As the omicron variant sweeps through South Africa, Dr. Unben Pillay is seeing dozens of sick patients a day. Yet he hasn’t had to send anyone to the hospital.That’s one of the reasons why he, along with other doctors and medical experts, …",
+      "url": "https://apnews.com/bd7a30e490c407b8d84afef5ac9e203e",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/27bf379d46b54da9bf76a626859b93b2/3000.jpeg",
+      "publishedAt": "2021-12-11T07:52:49Z",
+      "content": "JOHANNESBURG (AP) — As the omicron variant sweeps through South Africa, Dr. Unben Pillay is seeing dozens of sick patients a day. Yet he hasn’t had to send anyone to the hospital.That’s one of the re… [+4205 chars]"
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Namita Singh",
+      "title": "Covid omicron news - live: Treasury staff ‘had lockdown party’ as boosters offer key protection, study says",
+      "description": "Follow the latest live updates as UK predicts omicron will be dominant variant by next week",
+      "url": "http://www.independent.co.uk/news/covid-omicron-variant-cases-live-vaccines-latest-b1974100.html",
+      "urlToImage": "https://static.independent.co.uk/2021/12/11/07/09611011.jpg?width=1200&auto=webp&quality=75",
+      "publishedAt": "2021-12-11T07:49:24Z",
+      "content": "Around two dozen Treasury staff had office drinks las year while England was in lockdown, The Times has reported. The newspaper quoted a Treasury spokesperson who confirmed that a small number of ci… [+6319 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-in",
+        "name": "Google News (India)"
+      },
+      "author": null,
+      "title": "Section 144 imposed in Mumbai for 48 hours due to rising Omicron threat; all you need to know",
+      "description": "Under the new orders, large gatherings, rallies, morchas, or processions of vehicles and people have been banned in Mumbai today and tomorrow",
+      "url": "https://www.firstpost.com/india/section-144-imposed-in-mumbai-for-48-hours-due-to-rising-omicron-threat-all-you-need-to-know-10203041.html",
+      "urlToImage": "https://images.firstpost.com/wp-content/uploads/2021/06/Covid19_maharashtra_PTI_640.jpg",
+      "publishedAt": "2021-12-11T06:37:51+00:00",
+      "content": "Under the new orders, large gatherings, rallies, morchas, or processions of vehicles and people have been banned in Mumbai today and tomorrow In viewing of rising cases of the Omicron variant of th… [+1990 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-au",
+        "name": "Google News (Australia)"
+      },
+      "author": "Elizabeth Byrne",
+      "title": "Josh Frydenberg warns states not to 'overreact' to Omicron variant amid economic recovery",
+      "description": "Ahead of delivering his Mid-Year Economic Fiscal Outlook report, Josh Frydenberg says state borders remaining open will be critical to maintaining Australia's economic recovery.",
+      "url": "https://www.abc.net.au/news/2021-12-11/josh-frydenberg-warns-states-to-stay-open-covid-omicron/100693358",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/bcd8d55cba4e4a9da38ac4d04fc92408?impolicy=wcms_crop_resize&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485",
+      "publishedAt": "2021-12-11T06:29:17+00:00",
+      "content": "The Federal government is warning states to stay open or risk Australia's economic recovery from COVID-19 shutdowns. Key points: <ul><li>Federal Treasurer Josh Frydenberg warns states not to 'overr… [+4462 chars]"
+    },
+    {
+      "source": {
+        "id": "the-globe-and-mail",
+        "name": "The Globe And Mail"
+      },
+      "author": "Ivan Semeniuk",
+      "title": "As Omicron reveals itself, Canada’s scientists scramble to predict its impact on at-risk populations",
+      "description": "Preliminary data on the COVID-19 variant suggest it’s likely to produce more breakthrough infections. But there could be a silver lining: it may be less severe",
+      "url": "https://www.theglobeandmail.com/canada/article-as-omicron-reveals-itself-canadas-scientists-scramble-to-predict-its/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/hYzNHmK2WnH0sYufXek5ef64OT0=/1200x857/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/NEWY2FQB6VG57KL54ZMOGJ3ZY4.jpg",
+      "publishedAt": "2021-12-11T01:03:39Z",
+      "content": "Dr. Anne-Claude Gingras works in her lab at Mount Sinai Hospital in Toronto on Dec. 10. Dr. Gingras and her colleagues are trying to replicate laboratory findings reported by Pfizer and BioNTech that… [+6532 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Berkeley Lovelace Jr.",
+      "title": "Omicron variant cases found in 25 states. Most are mild, CDC says",
+      "description": "How many cases of omicron variant in the U.S.: CDC says Omicron cases found in at least 25 states and most are mild.",
+      "url": "https://www.nbcnews.com/health/health-news/cdc-report-omicron-finds-first-handful-cases-us-mostly-mild-rcna8352",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-12/211210-covid-testing-al-0941-b4b281.jpg",
+      "publishedAt": "2021-12-11T00:51:06Z",
+      "content": "The first handful of omicron cases in the United States have been mostly mild, with most patients reporting symptoms such as cough or a runny nose, according to a report from the Centers for Disease … [+3741 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Will Stone",
+      "title": "What omicron's fast spread could mean for the U.S. – and the world",
+      "description": "The variant has spread through South Africa with remarkable speed — and been detected in at least 60 other countries. Specialists are trying to figure out the next stage for this unwelcome variant.",
+      "url": "https://www.npr.org/sections/goatsandsoda/2021/12/10/1062498420/what-omicrons-fast-spread-could-mean-for-the-u-s-and-the-world",
+      "urlToImage": "https://media.npr.org/assets/img/2021/12/08/omicron_wide-dbf4c81346a197ae7764d0925e71d2c39afbdd33.png?s=1400",
+      "publishedAt": "2021-12-10T23:46:41+00:00",
+      "content": "The first country to really get hit by omicron is South Africa. Before the new variant took off last month, coronavirus cases there were low only several hundred per day in mid November. But by ea… [+7547 chars]"
+    },
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "CBC News",
+      "title": "COVID-19 infections are on the rise and omicron could quadruple daily case counts, federal modelling says | CBC News",
+      "description": "New modelling released today by the Public Health Agency of Canada (PHAC) suggests the number of COVID-19 cases could increase sharply in the coming weeks as the country grapples with another wave of delta infections and the highly transmissible omicron varia…",
+      "url": "http://www.cbc.ca/news/politics/covid-infections-rising-federal-modelling-1.6281026",
+      "urlToImage": "https://i.cbc.ca/1.6281090.1639154191!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/covid-ont-20211204.JPG",
+      "publishedAt": "2021-12-10T22:52:23.1199042Z",
+      "content": "New modelling released today by the Public Health Agency of Canada (PHAC) suggests the number of COVID-19 cases could increase sharply in the coming weeks as the country grapples with another wave of… [+6135 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Rick Noack",
+      "title": "Omicron could become dominant in some European countries by next week, officials predict",
+      "description": "Questions about vaccine protection and disease severity remain open.",
+      "url": "https://www.washingtonpost.com/world/europe/omicron-dominant-europe-covid/2021/12/10/7ec14c42-59df-11ec-8396-5552bef55c3c_story.html",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6337U4S2AYI6ZEU6SVICX6GN2U.jpg&w=1440",
+      "publishedAt": "2021-12-10T22:20:56Z",
+      "content": "That echoes the latest update from the U.K. Health Security Agency, which has high confidence that omicron has a growth advantage over delta and estimates that, spreading at its current rate, it will… [+4323 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-uk",
+        "name": "Google News (UK)"
+      },
+      "author": "Abigail Nicholson",
+      "title": "New care home rules announced ahead of Christmas",
+      "description": "The rules have been brought in to tackle the spread of the Omicron coronavirus variant",
+      "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/new-care-home-rules-announced-22431385",
+      "urlToImage": "https://i2-prod.liverpoolecho.co.uk/incoming/article22431382.ece/ALTERNATES/s1200/0_Social-care-plans.jpg",
+      "publishedAt": "2021-12-10T22:18:57+00:00",
+      "content": "New rules mean Christmas care home visits in England will be restricted to help prevent the spread of coronavirus. The Department of Health and Social Care (DHSC) has brought in the new measures to… [+2896 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-ca",
+        "name": "Google News (Canada)"
+      },
+      "author": null,
+      "title": "What Canadian health officials know so far about the Omicron variant of COVID-19 - Canada News",
+      "description": "New federal modelling suggests the Omicron variant could propel an enormous spike in COVID-19 cases over the next few months. But there's still a lot scientists need to learn about the latest mutation. Here's what Canadian public health officials know about t…",
+      "url": "https://www.castanet.net/news/Canada/354280/What-Canadian-health-officials-know-so-far-about-the-Omicron-variant-of-COVID-19",
+      "urlToImage": "https://www.castanet.net/content/2021/12/coronavirus-6826309_1280._p3566576.jpg",
+      "publishedAt": "2021-12-10T22:04:00+00:00",
+      "content": "New federal modelling suggests the Omicron variant could propel an enormous spike in COVID-19 cases over the next few months. But there's still a lot scientists need to learn about the latest mutatio… [+1607 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news-uk",
+        "name": "Google News (UK)"
+      },
+      "author": "Barney Davis",
+      "title": "UK Covid news live: Michael Gove warns UK faces ‘deeply concerning situation’ amid Omicron spread",
+      "description": "Michael Gove warned the UK faced a “deeply concerning situation” given the fast rate of the Omicron spread.",
+      "url": "https://www.standard.co.uk/news/uk/covid-uk-news-latest-face-masks-indoor-boris-johnson-christmas-parties-plan-b-omicron-b971109.html",
+      "urlToImage": "https://static.standard.co.uk/2021/11/30/17/fcbe4303152b49618483ff8f75dbafbcY29udGVudHNlYXJjaGFwaSwxNjM4Mzc2NDEx-2.64038942.jpg?width=1200&width=1200&auto=webp&quality=75",
+      "publishedAt": "2021-12-10T18:41:44+00:00",
+      "content": "Universities should move lessons online to protect students before Christmas Universities should move lessons online for the final week of term amid concerns around the spread of Omicron, a union h… [+1035 chars]"
+    }
+  ]
+}
