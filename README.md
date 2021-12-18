@@ -1,2 +1,2 @@
 
-This is a daily news application iwritten in react.js
+This is a daily news application written in react.js
